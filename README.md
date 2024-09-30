@@ -1,3 +1,3 @@
-# Serv - Multi-Platform Solution for Local Tradespeople
+# Serv - Solution multiplateforme pour les artisans locaux
 
-Serv is a versatile platform connecting customers with skilled tradespeople, including electricians, mechanics, plumbers, and more. Built to address accessibility challenges, Serv operates on three platforms: a mobile app, a web application, and USSD, ensuring users can connect to services even without internet access. Customers can browse tradespeople profiles, submit service requests, and track job progress seamlessly. 
+Serv est une plateforme polyvalente qui connecte les clients avec des artisans qualifiés, tels que des électriciens, mécaniciens, plombiers, et bien d'autres. Conçue pour répondre aux défis d'accessibilité, Serv fonctionne sur trois plateformes : une application mobile, une application web et un service USSD, garantissant ainsi aux utilisateurs la possibilité de se connecter aux services même sans accès à Internet. Les clients peuvent parcourir les profils des artisans, soumettre des demandes de service et suivre l'avancement des travaux de manière fluide.
